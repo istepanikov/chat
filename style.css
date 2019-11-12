@@ -11,8 +11,8 @@ a {
     margin: 100px;
 }
 input[type="submit"] {
-    width: 26px;
-    height: 20px;
+    width: 25px;
+    height: 22px;
     background:url(image.png);
     position:fixed; top:100px;  left:875px;
 }
